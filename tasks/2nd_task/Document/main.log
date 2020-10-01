@@ -1,0 +1,367 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.8.17)  30 SEP 2020 02:44
+entering extended mode
+**./main.tex
+(main.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-08-07>
+(/home/bruna/.miktex/texmfs/install/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/home/bruna/.miktex/texmfs/install/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+) (spconf.sty)
+(/home/bruna/.miktex/texmfs/install/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(/home/bruna/.miktex/texmfs/install/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/home/bruna/.miktex/texmfs/install/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen135
+))
+(/home/bruna/.miktex/texmfs/install/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen136
+)
+(/home/bruna/.miktex/texmfs/install/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count176
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count177
+\leftroot@=\count178
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count179
+\DOTSCASE@=\count180
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen137
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count181
+\c@MaxMatrixCols=\count182
+\dotsspace@=\muskip16
+\c@parentequation=\count183
+\dspbrk@lvl=\count184
+\tag@help=\toks16
+\row@=\count185
+\column@=\count186
+\maxfields@=\count187
+\andhelp@=\toks17
+\eqnshift@=\dimen138
+\alignsep@=\dimen139
+\tagshift@=\dimen140
+\tagwidth@=\dimen141
+\totwidth@=\dimen142
+\lineht@=\dimen143
+\@envbody=\toks18
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+(/home/bruna/.miktex/texmfs/install/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/home/bruna/.miktex/texmfs/install/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+(/home/bruna/.miktex/texmfs/install/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/home/bruna/.miktex/texmfs/install/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/home/bruna/.miktex/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/home/bruna/.miktex/texmfs/install/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen144
+\Gin@req@width=\dimen145
+)
+(/home/bruna/.miktex/texmfs/install/tex/latex/listings/listings.sty
+\lst@mode=\count188
+\lst@gtempboxa=\box47
+\lst@token=\toks21
+\lst@length=\count189
+\lst@currlwidth=\dimen146
+\lst@column=\count190
+\lst@pos=\count191
+\lst@lostspace=\dimen147
+\lst@width=\dimen148
+\lst@newlines=\count192
+\lst@lineno=\count193
+\lst@maxwidth=\dimen149
+
+(/home/bruna/.miktex/texmfs/install/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count194
+\lst@skipnumbers=\count195
+\lst@framebox=\box48
+)
+(/home/bruna/.miktex/texmfs/install/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(/home/bruna/.miktex/texmfs/install/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count196
+\float@exts=\toks22
+\float@box=\box49
+\@float@everytoks=\toks23
+\@floatcapt=\box50
+)
+(/home/bruna/.miktex/texmfs/install/tex/latex/pythonhighlight/pythonhighlight.s
+ty
+Package: pythonhighlight 2017/02/09 python code highlighting; provided by Olivi
+er Verdier <olivier.verdier@gmail.com>
+ (/home/bruna/.miktex/texmfs/install/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/home/bruna/.miktex/texmfs/install/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+(/home/bruna/.miktex/texmfs/install/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-08-07 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count197
+\l__pdf_internal_box=\box51
+)
+(main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 4
+3.
+ (/home/bruna/.miktex/texmfs/install/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(/home/bruna/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count198
+\scratchdimen=\dimen150
+\scratchbox=\box52
+\nofMPsegments=\count199
+\nofMParguments=\count266
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count267
+\MPscratchDim=\dimen151
+\MPnumerator=\count268
+\makeMPintoPDFobject=\count269
+\everyMPtoPDFconversion=\toks25
+) (/home/bruna/.miktex/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+\c@lstlisting=\count270
+
+Underfull \hbox (badness 1199) in paragraph at lines 101--102
+\OT1/ptm/m/n/10 gr[]aficos de his-tograma, PDF e/ou CDF para efeitos de
+ []
+
+<Figures/hist_original_fig.png, id=1, 433.62pt x 289.08pt>
+File: Figures/hist_original_fig.png Graphic file (type png)
+<use Figures/hist_original_fig.png>
+Package pdftex.def Info: Figures/hist_original_fig.png  used on input line 111.
+
+(pdftex.def)             Requested size: 241.84842pt x 161.23528pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1{/home/bruna/.miktex/texmfs/data/pdftex/config/pdftex.map}
+
+
+
+]
+<Figures/cdf_images.png, id=18, 433.62pt x 289.08pt>
+File: Figures/cdf_images.png Graphic file (type png)
+<use Figures/cdf_images.png>
+Package pdftex.def Info: Figures/cdf_images.png  used on input line 123.
+(pdftex.def)             Requested size: 241.84842pt x 161.23528pt.
+<Figures/transform_graph.png, id=19, 433.62pt x 289.08pt>
+File: Figures/transform_graph.png Graphic file (type png)
+<use Figures/transform_graph.png>
+Package pdftex.def Info: Figures/transform_graph.png  used on input line 135.
+(pdftex.def)             Requested size: 241.84842pt x 161.23528pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<Figures/transformed_hist.png, id=20, 433.62pt x 289.08pt>
+File: Figures/transformed_hist.png Graphic file (type png)
+<use Figures/transformed_hist.png>
+Package pdftex.def Info: Figures/transformed_hist.png  used on input line 147.
+(pdftex.def)             Requested size: 241.84842pt x 161.23528pt.
+<Figures/transformed_cdf.png, id=21, 433.62pt x 289.08pt>
+File: Figures/transformed_cdf.png Graphic file (type png)
+<use Figures/transformed_cdf.png>
+Package pdftex.def Info: Figures/transformed_cdf.png  used on input line 157.
+(pdftex.def)             Requested size: 241.84842pt x 161.23528pt.
+<Figures/images1.png, id=22, 722.7pt x 722.7pt>
+File: Figures/images1.png Graphic file (type png)
+<use Figures/images1.png>
+Package pdftex.def Info: Figures/images1.png  used on input line 169.
+(pdftex.def)             Requested size: 241.84842pt x 241.84409pt.
+ [2 <./Figures/hist_original_fig.png> <./Figures/cdf_images.png> <./Figures/tra
+nsform_graph.png> <./Figures/transformed_hist.png> <./Figures/transformed_cdf.p
+ng>]
+<Figures/lena_rect_filter.png, id=31, 433.62pt x 289.08pt>
+File: Figures/lena_rect_filter.png Graphic file (type png)
+<use Figures/lena_rect_filter.png>
+Package pdftex.def Info: Figures/lena_rect_filter.png  used on input line 199.
+(pdftex.def)             Requested size: 241.84842pt x 161.23528pt.
+
+Overfull \hbox (0.62428pt too wide) in paragraph at lines 213--214
+[]\OT1/ptm/m/n/10 Subtrair da im-agem orig-i-nal a im-agem bor-rada, gerando
+ []
+
+<Figures/unsharp_mask_without_scalling.png, id=32, 722.7pt x 722.7pt>
+File: Figures/unsharp_mask_without_scalling.png Graphic file (type png)
+<use Figures/unsharp_mask_without_scalling.png>
+Package pdftex.def Info: Figures/unsharp_mask_without_scalling.png  used on inp
+ut line 231.
+(pdftex.def)             Requested size: 241.84842pt x 241.84409pt.
+[3 <./Figures/images1.png> <./Figures/lena_rect_filter.png>]
+<Figures/high_boost_without_scalling.png, id=39, 722.7pt x 722.7pt>
+File: Figures/high_boost_without_scalling.png Graphic file (type png)
+<use Figures/high_boost_without_scalling.png>
+Package pdftex.def Info: Figures/high_boost_without_scalling.png  used on input
+ line 241.
+(pdftex.def)             Requested size: 241.84842pt x 241.84409pt.
+<Figures/unsharp_mask_with_scalling.png, id=40, 722.7pt x 722.7pt>
+File: Figures/unsharp_mask_with_scalling.png Graphic file (type png)
+<use Figures/unsharp_mask_with_scalling.png>
+Package pdftex.def Info: Figures/unsharp_mask_with_scalling.png  used on input 
+line 254.
+(pdftex.def)             Requested size: 241.84842pt x 241.84409pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<Figures/high_boost_with_scalling.png, id=41, 722.7pt x 722.7pt>
+File: Figures/high_boost_with_scalling.png Graphic file (type png)
+<use Figures/high_boost_with_scalling.png>
+Package pdftex.def Info: Figures/high_boost_with_scalling.png  used on input li
+ne 264.
+(pdftex.def)             Requested size: 241.84842pt x 241.84409pt.
+ [4 <./Figures/unsharp_mask_without_scalling.png> <./Figures/high_boost_without
+_scalling.png> <./Figures/unsharp_mask_with_scalling.png> <./Figures/high_boost
+_with_scalling.png>]
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 2
+83.
+ (/home/bruna/.miktex/texmfs/install/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+<Figures/cutted_unsharp_mask.png, id=49, 722.7pt x 722.7pt>
+File: Figures/cutted_unsharp_mask.png Graphic file (type png)
+<use Figures/cutted_unsharp_mask.png>
+Package pdftex.def Info: Figures/cutted_unsharp_mask.png  used on input line 29
+1.
+(pdftex.def)             Requested size: 241.84842pt x 241.84409pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<Figures/cutted_high_boost.png, id=50, 722.7pt x 722.7pt>
+File: Figures/cutted_high_boost.png Graphic file (type png)
+<use Figures/cutted_high_boost.png>
+Package pdftex.def Info: Figures/cutted_high_boost.png  used on input line 301.
+
+(pdftex.def)             Requested size: 241.84842pt x 241.84409pt.
+ [5 <./Figures/cutted_unsharp_mask.png> <./Figures/cutted_high_boost.png>] [6
+
+]
+(/home/bruna/.miktex/texmfs/install/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 3
+21.
+
+(/home/bruna/.miktex/texmfs/install/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+LaTeX Font Info:    Trying to load font information for TS1+pcr on input line 3
+44.
+
+(/home/bruna/.miktex/texmfs/install/tex/latex/psnfss/ts1pcr.fd
+File: ts1pcr.fd 2001/06/04 font definitions for TS1/pcr.
+) [7
+
+] [8]
+[9] [10] [11] [12] [13] (main.aux) ) 
+Here is how much of TeX's memory you used:
+ 4839 strings out of 481213
+ 64709 string characters out of 2910699
+ 785789 words of memory out of 3000000
+ 20373 multiletter control sequences out of 15000+200000
+ 552841 words of font info for 66 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 36i,8n,50p,608b,1838s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/home/bruna/.miktex/texmfs/install/fonts/e
+nc/dvips/base/8r.enc}</home/bruna/.miktex/texmfs/install/fonts/type1/public/ams
+fonts/cm/cmex10.pfb></home/bruna/.miktex/texmfs/install/fonts/type1/public/amsf
+onts/cm/cmmi10.pfb></home/bruna/.miktex/texmfs/install/fonts/type1/public/amsfo
+nts/cm/cmmi5.pfb></home/bruna/.miktex/texmfs/install/fonts/type1/public/amsfont
+s/cm/cmmi7.pfb></home/bruna/.miktex/texmfs/install/fonts/type1/public/amsfonts/
+cm/cmr10.pfb></home/bruna/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm
+/cmr7.pfb></home/bruna/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb></home/bruna/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cms
+y7.pfb></home/bruna/.miktex/texmfs/install/fonts/type1/urw/courier/ucrb8a.pfb><
+/home/bruna/.miktex/texmfs/install/fonts/type1/urw/courier/ucrr8a.pfb></home/br
+una/.miktex/texmfs/install/fonts/type1/urw/courier/ucrro8a.pfb></home/bruna/.mi
+ktex/texmfs/install/fonts/type1/urw/times/utmb8a.pfb></home/bruna/.miktex/texmf
+s/install/fonts/type1/urw/times/utmbi8a.pfb></home/bruna/.miktex/texmfs/install
+/fonts/type1/urw/times/utmr8a.pfb></home/bruna/.miktex/texmfs/install/fonts/typ
+e1/urw/times/utmri8a.pfb>
+Output written on main.pdf (13 pages, 1116056 bytes).
+PDF statistics:
+ 133 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+
