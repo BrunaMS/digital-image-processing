@@ -1,0 +1,26 @@
+
+def my_histogram(image, plot = True, amax = 256, norm = False):
+	if(len(image.shape) > 2):
+	image = cv2.cvtColor(image, cv2.COLOR\_BGR2GRAY)
+	
+	# Get number of lines and columns
+	qntI, qntJ = image.shape
+	
+	# Creating Histogram manually
+	histogram = np.zeros(amax)
+	color = 0
+	for i in range(qntI):
+		for j in range(qntJ):
+			color = image[i][j]
+			\# print(color)
+			histogram[color] += 1
+	
+	if(norm):
+		histogram = (histogram - np.amin(histogram)) /  (np.amax(histogram) - np.amin(histogram))
+	
+	if(plot):
+		plt.figure()
+		plt.stem(histogram, use\_line\_collection = True)
+		plt.title('Original Image Histogram \$p\_r(r)\$')
+		plt.show()
+	return histogram
